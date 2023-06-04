@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color:black;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color:blueviolet;
+	padding: 20px;
+	
+}
+.blok{
+	background-color: rgba(255,255,255,0.5);
+	padding: 20px;
+	margin: 20px;
+	width: 50%;
+}
+.paragraf_2{color: black;background-color: rgba(255,255,255,0.5); }
+
+
+h1,h2 {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	color:black;	
+}
+h3 {
+	background-color:darkcyan;
+	padding: 20px;
+	line-height: 18px;
+	
+}
+body{
+	background: url("../Downloads/triangles-1430105_1280.png")
+}
+a:link {
+	color:black;
+	background-color: white;
+	padding: 5px;
+	line-height: 40px;
+	border: 1px solid #000000;
+}
+a:hover{
+	background-color: aquamarine
+}
